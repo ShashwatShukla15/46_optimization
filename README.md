@@ -6,13 +6,6 @@ This project implements an optimization algorithm for determining the best scori
 
 - [Requirements](#requirements)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Input Format](#input-format)
-- [Output Format](#output-format)
-- [Example](#example)
-- [Replication of Results](#replication-of-results)
-- [License](#license)
-
 ---
 
 ## Requirements
