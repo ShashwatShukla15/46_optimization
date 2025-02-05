@@ -29,7 +29,7 @@ To run this project, ensure you have:
 2.Compile the code using g++:
   g++ 46_optimization_code.cpp -o optimization
   
-3.Replication of Results:
+## Replication of Results:
 
     Ensure Correct Input File
     Verify that input09.txt contains the correct format described above.
