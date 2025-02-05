@@ -6,6 +6,7 @@ This project implements an optimization algorithm for determining the best scori
 
 - [Requirements](#requirements)
 - [Installation](#installation)
+- [Replication of Results](#replication-of-results)
 ---
 
 ## Requirements
@@ -27,4 +28,18 @@ To run this project, ensure you have:
 
 2.Compile the code using g++:
   g++ 46_optimization_code.cpp -o optimization
+  
+3.To replicate the results:
 
+    Ensure Correct Input File
+    Verify that input09.txt contains the correct format described above.
+
+    Run the Code
+    Execute the command:
+      ./optimization < input09.txt > output.txt
+
+Check the Output
+   Compare output.txt with expected values.
+
+Modify and Experiment
+   Try different input datasets by creating new files (e.g., input_test.txt) and rerun.
