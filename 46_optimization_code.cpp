@@ -152,6 +152,10 @@ int main()
     ios::sync_with_stdio(0);
     cin.tie(0);
 
+    //reads input from input.txt, and prints output to output.txt
+    freopen("input.txt","r",stdin); 
+    freopen("output.txt","w",stdout);
+    
     auto points = readInput();
 
     auto [compressedX, compressedY] = compressCoordinates(points);
