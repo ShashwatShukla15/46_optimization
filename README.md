@@ -32,11 +32,11 @@ To run this project, ensure you have:
 ## Replication of Results:
 
     Ensure Correct Input File
-    Verify that input09.txt contains the correct format described above.
+    Verify that input.txt contains the correct format described above.
 
     Run the Code
     Execute the command:
-      ./optimization < input09.txt > output.txt
+      ./optimization
 
 Check the Output
    Compare output.txt with expected values.
